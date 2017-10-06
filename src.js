@@ -67,6 +67,12 @@ function createNewBall(){
     listOfBalls.push(new Ball(x, y, 20, yV, xV,color));
 }
 
+function start(){
+    for(let i = 0; i < 20; i++){
+        createNewBall();
+    }
+}
+
 function leftClick(){
     createNewBall();
 }
@@ -98,5 +104,6 @@ function drawBalls(ball){
     ctx.closePath();
 }
 
+start();
 setInterval(update, 1);
 
