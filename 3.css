@@ -1,0 +1,28 @@
+
+
+body {
+    background-color: #9df2bc;
+}
+
+#firstList {
+    color : darkmagenta;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#secondList {
+    font-size: 25px;
+    background-color: pink;
+}
+
+#doorBell{
+    text-align: center;
+}
+
+#sleighbell{
+    text-align: right;
+}
+
+#noodles{
+    text-align: center;
+}
