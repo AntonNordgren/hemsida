@@ -25,7 +25,8 @@
 #otherRow td {
     border-style: dotted;
     border-color: grey;
-    border-width: 2px;
+    padding: 5px;
+    font-size: 14px;
 }
 
 #firstRow {
