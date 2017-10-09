@@ -1,0 +1,65 @@
+
+#rect1 {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 75px;
+    height: 80px;
+    background: hotpink;
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+    text-align: center;
+}
+
+#rect2 {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 200px;
+    width: 100px;
+    height: 70px;
+    background: royalblue;
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+    text-align: center;
+}
+
+#rect3 {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 110px;
+    width: 150px;
+    height: 70px;
+    background: lightgrey;
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+    text-align: center;
+}
+
+#rect4 {
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 50px;
+    width:90px;
+    height: 120px;
+    background: beige;
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+    text-align: center;
+}
+
+#rect5 {
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 170px;
+    width: 40px;
+    height: 160px;
+    background: chartreuse;
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+    text-align: center;
+}
