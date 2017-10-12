@@ -1,0 +1,31 @@
+
+#black{
+    position: absolute;
+    width: 70%;
+    height: 120%;
+    background-color: black;
+    left: 15%;
+    right: 15%;
+    top: 10%;
+    bottom: 100%;
+}
+
+#white{
+    position: fixed;
+    width: 30%;
+    height: 30%;
+    background-color: white;
+    left: 35%;
+    right: 35%;
+    top: 25%;
+}
+
+#green{
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    background-color: green;
+    left: 30%;
+    right: 30%;
+    top: 20%;
+}
