@@ -1,0 +1,34 @@
+
+body{
+    margin: 5px;
+    background-color: beige;
+}
+
+#main{
+    position: absolute;
+    width: 40%;
+    left: 30%;
+    right: 30%;
+}
+
+.alt{
+    float: left;
+    list-style-type: none;
+    font-size: 2em;
+    padding: 20px;
+}
+
+#edit{
+    color: beige;
+}
+
+#editButton:hover + #edit{
+    color: black;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+
