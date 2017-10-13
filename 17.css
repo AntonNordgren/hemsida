@@ -1,0 +1,17 @@
+
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+#first{
+    width: 300px;
+    border: solid black;
+    border-radius: 30px;
+}
+
+#second{
+    width: 50%;
+    border: solid black;
+    border-radius: 30px;
+}

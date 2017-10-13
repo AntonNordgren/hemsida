@@ -1,14 +1,11 @@
 
 body{
-    margin: 5px;
+    margin: 0;
     background-color: beige;
 }
 
 #main{
-    position: absolute;
-    width: 40%;
-    left: 30%;
-    right: 30%;
+    position: static;
 }
 
 .alt{
@@ -16,14 +13,15 @@ body{
     list-style-type: none;
     font-size: 2em;
     padding: 20px;
+    margin: 10px;
 }
 
 #edit{
-    color: beige;
+    visibility: hidden;
 }
 
 #editButton:hover + #edit{
-    color: black;
+    visibility: visible;
 }
 
 ul{
