@@ -1,0 +1,57 @@
+
+#test{
+    width: 18.11%
+}
+
+#header{
+    margin: 0;
+    text-align: center;
+}
+
+#mainTable{
+    border-style: solid;
+    border-color: grey;
+    background-color: beige;
+}
+
+#firstRow td {
+    background-color: yellowgreen;
+    border-style: dashed;
+    border-color: brown;
+    border-width: 2px;
+    padding-top: 5px;
+}
+
+#otherRow td {
+    border-style: dotted;
+    border-color: grey;
+    padding: 5px;
+    font-size: 14px;
+}
+
+#firstRow {
+    text-align: center;
+}
+
+#country {
+    text-align: right;
+}
+
+#firstPlace {
+    text-align: center;
+    background-color: gold;
+}
+
+#secondPlace {
+    text-align: center;
+    background-color: silver;
+}
+
+#thirdPlace {
+    text-align: center;
+    background-color: brown;
+}
+
+#fourthPlace {
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+
+body{
+    background: beige;
+}
+
+#chessTable{
+    border: solid black;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.black{
+    width: 25px;
+    height: 25px;
+    background-color: black;
+    margin: -1px;
+}
+
+.white{
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    margin: -1px;
+}
