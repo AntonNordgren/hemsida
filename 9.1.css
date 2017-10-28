@@ -17,10 +17,6 @@ p{
     clear: right;
 }
 
-.secondParagraph{
-    clear: both;
-}
-
 .container{
     position: relative;
     width: 70%;

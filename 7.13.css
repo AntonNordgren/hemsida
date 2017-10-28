@@ -20,7 +20,7 @@ body{
     visibility: hidden;
 }
 
-#editButton:hover + #edit{
+#editButton:hover + #edit, #edit:hover{
     visibility: visible;
 }
 
